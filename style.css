@@ -2332,6 +2332,7 @@ body .panel p {
   font-family: inherit;
   color: white;
   padding: 20px;
+  border: white;
 
 }
 .fixbutton {
@@ -2352,5 +2353,14 @@ body .panel p {
 .details-title {
   font-family: "Montserrat", sans-serif;
   font-weight: lighter;
-  font-size: 25px;
+  font-size: 50px;
+}
+
+
+.details,
+.details-content,
+.details-body,
+.details-title {
+  font-family: 'SUSE', sans-serif;
+  font-size: 18px;
 }
